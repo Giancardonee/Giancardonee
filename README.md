@@ -26,6 +26,9 @@
 </p>
 <br>
 
+## Mis repositorios destacados: 
+* [Sistema de Estacionamiento](https://github.com/Giancardonee/BETA-Sistema-Estacionamiento-JAVA)
+* [Primer Año Facutlad de Informatica](https://github.com/Giancardonee/Primer-anho-Licenciatrura-en-Sistemas-UNLP)
 
 <!--
 **Giancardonee/Giancardonee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
