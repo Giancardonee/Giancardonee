@@ -13,16 +13,6 @@
 - 👨‍💻 Aca podes encontrar tanto proyectos personales como proyectos de la facultad
 - ⚡ Cualquier cosa relacionada con la programación o el fútbol me va a hacer feliz :) 
 
-
-
-
-### Contactate conmigo 🔗 :
-<br>
-<p align='center'>
-<a href="giancardonee@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>&nbsp;&nbsp;
-</p>
 <br>
 
 ## Mis repositorios destacados: 
