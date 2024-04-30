@@ -38,6 +38,11 @@
 </a>
 
 
+<a href="https://github.com/Giancardonee/Organizacion-de-Computadoras">
+  <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=Organizacion-de-Computadoras&amp;theme=midnight-purple&amp;border_color=474554&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Organización de Computadoras" style="max-width: 100%;">
+</a>
+
+
    
 </div>
 
