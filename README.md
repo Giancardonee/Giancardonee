@@ -15,14 +15,22 @@
 
 <br>
 
-## Mis repositorios destacados: 
-* [Sistema de Estacionamiento](https://github.com/Giancardonee/BETA-Sistema-Estacionamiento-JAVA)
-* [Primer Año Facutlad de Informatica](https://github.com/Giancardonee/Primer-anho-Licenciatrura-en-Sistemas-UNLP)
 
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Giancardonee&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+</div>
+
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Giancardonee/Giancardonee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -32,4 +40,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Mis repositorios destacados: 
+* [Sistema de Estacionamiento](https://github.com/Giancardonee/BETA-Sistema-Estacionamiento-JAVA)
+* [Primer Año Facutlad de Informatica](https://github.com/Giancardonee/Primer-anho-Licenciatrura-en-Sistemas-UNLP)
+
+
+
 -->
