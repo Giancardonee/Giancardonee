@@ -21,7 +21,8 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Giancardonee&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 </div>
 
-## Primer año Licenciatura en Sistemas
+<h2 align="center">Primer año Licenciatura en Sistemas</h2>
+
 <div>
 
 <a href="https://github.com/Giancardonee/CADP">
