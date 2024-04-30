@@ -25,13 +25,16 @@
 <div>
 
 <a href="https://github.com/Giancardonee/CADP">
-  <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=CADP&amp;theme=midnight-purple&amp;border_color=474554&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de CADP" style="max-width: 100%;">
+  <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=CADP&amp;theme=midnight-purple&amp;border_color=474554&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de CADP" style="max-width: 100%;">
 </a>  
 
 <a href="https://github.com/Giancardonee/Taller-De-Programacion">
-  <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=Taller-De-Programacion&amp;theme=midnight-purple&amp;border_color=474554&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Taller de Programación" style="max-width: 100%;">
+  <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=Taller-De-Programacion&amp;theme=midnight-purple&amp;border_color=474554&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Taller de Programación" style="max-width: 100%;">
 </a>
 
+<a href="https://github.com/Giancardonee/Arquitectura-De-Computadoras">
+  <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=Arquitectura-De-Computadoras&amp;theme=midnight-purple&amp;border_color=474554&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Arquitectura de Computadoras" style="max-width: 100%;">
+</a>
 
 
    
