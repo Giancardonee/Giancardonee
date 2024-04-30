@@ -21,11 +21,12 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Giancardonee&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 </div>
 
+## Primer año Licenciatura en Sistemas
 
-<div align="center" dir="auto">
-	
-<a href="https://github.com/Giancardonee/Primer-anho-Licenciatrura-en-Sistemas-UNLP/tree/main/Arqui.%20de%20comp">
-  <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=Primer-anho-Licenciatrura-en-Sistemas-UNLP&amp;theme=midnight-purple&amp;border_color=474554&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo" style="max-width: 100%;">
+<div>
+
+<a href="https://github.com/Giancardonee/CADP">
+  <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=CADP&amp;theme=midnight-purple&amp;border_color=474554&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de CADP" style="max-width: 100%;">
 </a>
 
 
