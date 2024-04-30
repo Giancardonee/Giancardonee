@@ -11,7 +11,7 @@
 - 😄 Conocido como Gianca
 - 🌱 Actualmente en **Segundo Año** de **Licenciatura en Sistemas** en la Facultad de Informatica **UNLP**
 - 👨‍💻 Aca podes encontrar tanto proyectos personales como proyectos de la facultad
-- ⚡ Cualquier cosa relacionada con la programación o el fútbol me va a hacer feliz :) 
+
 
 <br>
 
