@@ -22,7 +22,15 @@
 </div>
 
 
+<div align="center" dir="auto">
+	
+<a href="https://github.com/Giancardonee/Primer-anho-Licenciatrura-en-Sistemas-UNLP/tree/main/Arqui.%20de%20comp">
+  <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=Primer-anho-Licenciatrura-en-Sistemas-UNLP&amp;theme=midnight-purple&amp;border_color=474554&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo" style="max-width: 100%;">
+</a>
 
+
+   
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
