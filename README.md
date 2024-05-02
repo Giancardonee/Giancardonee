@@ -14,7 +14,7 @@
 - 💻 Les dejo el discord que hice con amigos, relacionado con las materias de la facultad:  
   [Invitacion al discord](https://discord.gg/knyZwCxD)
 <br>
-<div align="center">
+<div align="rigth">
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Giancardonee&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 </div>
