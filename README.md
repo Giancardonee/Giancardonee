@@ -9,13 +9,11 @@
 
 
 - 😄 Conocido como Gianca
-- 🌱 Actualmente en **Segundo Año** de **Licenciatura en Sistemas** en la Facultad de Informatica **UNLP**
 - 👨‍💻 Aca podes encontrar tanto proyectos personales como proyectos de la facultad
-
-
+- 🌱 Actualmente en **Segundo Año** de **Licenciatura en Sistemas** en la Facultad de Informatica **UNLP**
+- 💻 Les dejo el discord que hice con amigos, relacionado con las materias de la facultad:  
+  [Invitacion al discord](https://discord.gg/knyZwCxD)
 <br>
-
-
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Giancardonee&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
@@ -41,11 +39,6 @@
 <a href="https://github.com/Giancardonee/Organizacion-de-Computadoras">
   <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=Organizacion-de-Computadoras&amp;theme=midnight-purple&amp;border_color=474554&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Organización de Computadoras" style="max-width: 100%;">
 </a>
-</div>
-
-
-   
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
