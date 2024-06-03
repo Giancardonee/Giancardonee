@@ -35,6 +35,12 @@
   <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=Organizacion-de-Computadoras&amp;theme=midnight-purple&amp;border_color=474554&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Organización de Computadoras" style="max-width: 100%;">
 </a>
 
+<h2 align="center">Segundo año Licenciatura en Sistemas</h2>
+<a href="https://github.com/Giancardonee/FOD">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=Arquitectura-De-Computadoras&amp;theme=midnight-purple&amp;border_color=474554&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Arquitectura de Computadoras" style="max-width: 100%;">
+</a>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Giancardonee/Giancardonee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
