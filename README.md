@@ -40,6 +40,12 @@
 <a href="https://github.com/Giancardonee/FOD">
   <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=FOD&amp;theme=midnight-purple&amp;border_color=474554&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de FOD" style="max-width: 100%;">
 </a>
+<a href="https://github.com/Giancardonee/AyED">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=AyED&amp;theme=midnight-purple&amp;border_color=474554&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de AyED" style="max-width: 100%;">
+</a>
+<a href="https://github.com/Giancardonee/Seminario-.NET">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=Seminario-.NET&amp;theme=midnight-purple&amp;border_color=474554&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Seminario-.NET" style="max-width: 100%;">
+</a>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
