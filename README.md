@@ -9,10 +9,11 @@
 - 💻 Les dejo el discord que hice con amigos, relacionado con las materias de la facultad:  
   [Invitacion al discord](https://discord.gg/knyZwCxD)
 <br>
-<div align="rigth">
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Giancardonee&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giancardonee&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Top Languages" style="margin-right: 10px;">
+  <img src="https://github.com/Giancardonee/Giancardonee/assets/114377978/48ea7019-3bd6-42b5-b698-15665cc21db5" alt="Image from GitHub">
 </div>
+
 
 <h2 align="center">Primer año Licenciatura en Sistemas</h2>
 
