@@ -46,6 +46,9 @@
   <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=Seminario-.NET&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Seminario-.NET" style="max-width: 100%;">
 </a>
 
+  
+![image](https://github.com/Giancardonee/Giancardonee/assets/114377978/85a3d77c-20f5-40ae-9462-f63378e91214)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
