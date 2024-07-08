@@ -51,8 +51,6 @@
 </a>
 
   
-![image](https://github.com/Giancardonee/Giancardonee/assets/114377978/85a3d77c-20f5-40ae-9462-f63378e91214)
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
