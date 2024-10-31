@@ -5,7 +5,7 @@
 
 - 😄 Conocido como Gianca
 - 👨‍💻 Aca podes encontrar tanto proyectos personales como proyectos de la facultad
-- 🌱 Actualmente en **Segundo Año** de **Licenciatura en Sistemas** en la Facultad de Informatica **UNLP**
+- 🌱 Cursando **Licenciatura en Sistemas** en la Facultad de Informatica **UNLP**
 - 💻 Les dejo el discord que hice con amigos, relacionado con las materias de la facultad:  
   [Invitacion al discord](https://discord.gg/knyZwCxD)
 <br>
