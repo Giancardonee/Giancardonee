@@ -49,6 +49,9 @@
 <a href="https://github.com/Giancardonee/Seminario-.NET">
   <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=Seminario-.NET&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Seminario-.NET" style="max-width: 100%;">
 </a>
+<a href="https://github.com/Giancardonee/OO1">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=OO1&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de OO1" style="max-width: 100%;">
+</a>
 
 
 
