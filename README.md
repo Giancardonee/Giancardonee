@@ -64,7 +64,7 @@
 <h2 align="center">Proyectos en JAVA</h2>
 
 ### 🌟 Proyectos en Java Swing (JDBC e Interfaces)  
- - Este es un sistema para gestionar el estacionamiento de vehículos utilizando Java Swing para la interfaz gráfica y JDBC para la conexión con la base de datos.
+ - Este es un sistema para gestionar el estacionamiento de vehículos utilizando Java Swing para la interfaz gráfica y JDBC para la conexión con la base de datos.  
 ✨ [Sistema de Estacionamiento con Java Swing y JDBC](https://github.com/Giancardonee/SistemaEstacionamiento)  
  
 
