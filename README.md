@@ -63,13 +63,15 @@
 
 <h2 align="center">Proyectos en JAVA</h2>
 
-### 🌟 Proyectos en Java Swing (JDBC e Interfaces)
+### 🌟 Proyectos en Java Swing (JDBC e Interfaces)  
+ - Este es un sistema para gestionar el estacionamiento de vehículos utilizando Java Swing para la interfaz gráfica y JDBC para la conexión con la base de datos.
 ✨ [Sistema de Estacionamiento con Java Swing y JDBC](https://github.com/Giancardonee/SistemaEstacionamiento)  
-   - Este es un sistema para gestionar el estacionamiento de vehículos utilizando Java Swing para la interfaz gráfica y JDBC para la conexión con la base de datos.
+ 
 
-### 💻 Proyectos en Spring Boot
-🔥 [API REST CRUD de Alumnos con Spring Boot](https://github.com/Giancardonee/APIREST-CRUD-de-Alumnos)  
-   - Este proyecto utiliza Spring Boot para crear una API RESTful para manejar operaciones CRUD sobre alumnos.  
+### 💻 Proyectos en Spring Boot  
+  - Este proyecto utiliza Spring Boot para crear una API RESTful para manejar operaciones CRUD sobre alumnos.  
+✨ [API REST CRUD de Alumnos con Spring Boot](https://github.com/Giancardonee/APIREST-CRUD-de-Alumnos)  
+ 
 
 
 
