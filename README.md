@@ -49,4 +49,43 @@
   <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=Seminario-.NET&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Seminario-.NET" style="max-width: 100%;">
 </a>
 <a href="https://github.com/Giancardonee/OO1">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=OO1&amp;theme=midnight-purple&amp;border_color=40…
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=OO1&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de OO1" style="max-width: 100%;">
+</a>
+<!--
+<a href="https://github.com/Giancardonee/DBD">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=DBD&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de DBD" style="max-width: 100%;">
+   -->
+</a>
+<a href="https://github.com/Giancardonee/ISO">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=ISO&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de ISO" style="max-width: 100%;">
+</a>
+
+
+<h2 align="center">Proyectos en JAVA</h2>
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--
+*Giancardonee/Giancardonee* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+## Mis repositorios destacados: 
+* [Sistema de Estacionamiento](https://github.com/Giancardonee/BETA-Sistema-Estacionamiento-JAVA)
+* [Primer Año Facutlad de Informatica](https://github.com/Giancardonee/Primer-anho-Licenciatrura-en-Sistemas-UNLP)
+
+
+
+-->
