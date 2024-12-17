@@ -63,29 +63,14 @@
 
 <h2 align="center">Proyectos en JAVA</h2>
 
+### 🌟 Proyectos en Java Swing (JDBC e Interfaces)
+✨ [Sistema de Estacionamiento con Java Swing y JDBC](https://github.com/Giancardonee/SistemaEstacionamiento)  
+   - Este es un sistema para gestionar el estacionamiento de vehículos utilizando Java Swing para la interfaz gráfica y JDBC para la conexión con la base de datos.
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-*Giancardonee/Giancardonee* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-## Mis repositorios destacados: 
-* [Sistema de Estacionamiento](https://github.com/Giancardonee/BETA-Sistema-Estacionamiento-JAVA)
-* [Primer Año Facutlad de Informatica](https://github.com/Giancardonee/Primer-anho-Licenciatrura-en-Sistemas-UNLP)
+### 💻 Proyectos en Spring Boot
+🔥 [API REST CRUD de Alumnos con Spring Boot](https://github.com/Giancardonee/APIREST-CRUD-de-Alumnos)  
+   - Este proyecto utiliza Spring Boot para crear una API RESTful para manejar operaciones CRUD sobre alumnos.  
 
 
 
--->
+
