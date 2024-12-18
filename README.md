@@ -57,16 +57,23 @@
 </a>
 
 
-<h2 align="center">Proyectos en JAVA</h2>
+<h2 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo" width="40" style="vertical-align: middle; margin-right: 10px;">
+  Proyectos en JAVA
+</h2>
 
-### 🌟 Proyectos en Java Swing (JDBC e Interfaces)  
- - Este es un sistema para gestionar el estacionamiento de vehículos utilizando Java Swing para la interfaz gráfica y JDBC para la conexión con la base de datos.  
-✨ [Sistema de Estacionamiento con Java Swing y JDBC](https://github.com/Giancardonee/SistemaEstacionamiento)  
- 
+### (Java Swing y JDBC)  
+<a href="https://github.com/Giancardonee/SistemaEstacionamiento">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&repo=SistemaEstacionamiento&theme=midnight-purple&border_color=FFA500&bg_color=2C3E50&icon_color=F8F8FF&show_icons=true" alt="Sistema de Estacionamiento" style="max-width: 100%;">
+</a>
 
-### 💻 Proyectos en Spring Boot  
-  - Este proyecto utiliza Spring Boot para crear una API RESTful para manejar operaciones CRUD sobre alumnos.  
-✨ [API REST CRUD de Alumnos con Spring Boot](https://github.com/Giancardonee/APIREST-CRUD-de-Alumnos)  
+### 🌐 (Spring Boot)  
+<a href="https://github.com/Giancardonee/APIREST-CRUD-de-Alumnos">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&repo=APIREST-CRUD-de-Alumnos&theme=midnight-purple&border_color=FFA500&bg_color=2C3E50&icon_color=F8F8FF&show_icons=true" alt="API REST CRUD de Alumnos" style="max-width: 100%;">
+</a>
+
+
+
  
 
 
