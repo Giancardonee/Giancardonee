@@ -62,7 +62,7 @@
   Proyectos en JAVA
 </h2>
 
-### 🚗 Java Swing y JDBC  
+### 🚗 Swing y JDBC  
 <a href="https://github.com/Giancardonee/SistemaEstacionamiento">
   <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&repo=SistemaEstacionamiento&theme=midnight-purple&border_color=FFA500&bg_color=2C3E50&icon_color=F8F8FF&show_icons=true" alt="Sistema de Estacionamiento" style="max-width: 100%;">
 </a>
