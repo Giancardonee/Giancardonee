@@ -58,7 +58,10 @@
 
 <h2 align="center">Tercer año Licenciatura en Sistemas</h2>
 
-![Cargando...](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjYxMmd0a3VucmpmazlsdnBzMjF2ZWJoOG9yN3pjZWc1Nm1tMHN3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uIJBFZoOaifHf52MER/giphy.gif)
+<a href="https://github.com/Giancardonee/OO2">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=OO2&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de OO2" style="max-width: 100%;">
+</a>
+
 
 
 <h2 align="center">
