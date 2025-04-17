@@ -62,9 +62,7 @@
   <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=OO2&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de OO2" style="max-width: 100%;">
 </a>
 
-<a href="https://github.com/Giancardonee/CPLP">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=CPLP&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de CPLP" style="max-width: 100%;">
-</a>
+
 
 
 
