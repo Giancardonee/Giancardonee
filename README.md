@@ -1,16 +1,28 @@
-<h1> Bienvenido/a! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>  
+<h1> Bienvenido/a! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> </h1>  
 
-<p align='center'>
-- 😄 Aca podes encontrar tanto proyectos personales como proyectos de la facultad    
-- 🌱 Cursando *Licenciatura en Sistemas* en la Facultad de Informatica *UNLP*  
-- 💻 Les dejo el discord que hice con amigos, relacionado con las materias de la facultad:  
-<a href="https://discord.gg/2MwfRcduGn">Invitación al Discord</a>  
+<p align="left">
+  😄 Acá podés encontrar tanto proyectos personales como proyectos de la facultad <br>
+  🌱 Cursando <em>Licenciatura en Sistemas</em> en la Facultad de Informática <em>UNLP</em> <br>
+  💻 Les dejo el Discord que hice con amigos, relacionado con las materias de la facultad: <br>
+  <a href="https://discord.gg/2MwfRcduGn">Invitación al Discord</a>
+</p>
 
 <br>
-<p align="center">
 
-  <img src="https://github.com/Giancardonee/Giancardonee/assets/114377978/48ea7019-3bd6-42b5-b698-15665cc21db5" alt="Image from GitHub" style="margin-left: 20px;">
+<p align="center">
+  <img src="https://github.com/Giancardonee/Giancardonee/assets/114377978/48ea7019-3bd6-42b5-b698-15665cc21db5" alt="Image from GitHub">
 </p>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Giancardonee&show_icons=true&theme=radical" alt="Gianca's GitHub stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giancardonee&layout=compact&langs_count=8&theme=radical" alt="Top Langs" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Giancardonee&color=blueviolet" alt="Profile views" />
+</div>
+
 
 <h2 align="center">Primer año Licenciatura en Sistemas</h2>
 
