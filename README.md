@@ -66,10 +66,17 @@
 
 
 
+
+
 <h2 align="center">
+  Proyectos
+</h2>
+
+
+<h3 align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo" width="40" style="vertical-align: middle; margin-right: 10px;">
   Proyectos en JAVA
-</h2>
+</h3>
 
 ### 🚗 Swing y JDBC  
 <a href="https://github.com/Giancardonee/SistemaEstacionamiento">
@@ -84,10 +91,10 @@
   <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&repo=Generador-De-QR&theme=midnight-purple&border_color=FFA500&bg_color=2C3E50&icon_color=F8F8FF&show_icons=true" alt="Generador De QR" style="max-width: 100%;">
 </a>
 
-<h2 align="center">
+<h3 align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C# Logo" width="40" style="vertical-align: middle; margin-right: 10px;">
   Proyectos en C# y .NET
-</h2>
+</h3>
 
 <a href="https://github.com/Giancardonee/Gestion-De-Expedientes">
   <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&repo=Gestion-De-Expedientes&theme=midnight-purple&border_color=FFA500&bg_color=2C3E50&icon_color=F8F8FF&show_icons=true" alt="Gestion De Expedientes" style="max-width: 100%;">
