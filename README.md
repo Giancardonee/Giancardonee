@@ -7,12 +7,6 @@
   <a href="https://discord.gg/2MwfRcduGn">Invitación al Discord</a>
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://github.com/Giancardonee/Giancardonee/assets/114377978/48ea7019-3bd6-42b5-b698-15665cc21db5" alt="Image from GitHub">
-</p>
-
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
